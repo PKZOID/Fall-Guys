@@ -1,0 +1,18 @@
+; If you miss selective download files - that's OK
+3350a52220f4cbe2b7bf67e6e116b864 *..\fg-01.bin
+aeef524707d31077da54db7d352767d9 *..\fg-02.bin
+329a1ab2489517c93e98469677eeb99e *..\fg-03.bin
+df972ff4147f031ad527123aa24adeee *..\fg-selective-arabic.bin
+8b6782c0f36ff9dae12d276a9a00c09c *..\fg-selective-arabic.bin.lst
+76ed855c030c4921d15f2e3059ab4778 *..\fg-selective-brazilian.bin
+4ee8d2ee95563da669228dd53ed704f3 *..\fg-selective-chinese.bin
+07de03b68a161fe72cc5601b19335515 *..\fg-selective-english.bin
+df8471195d893be088dfe614f9d8f9fe *..\fg-selective-french.bin
+2e645e666676c2145c447b4caef05bce *..\fg-selective-german.bin
+3a384e4a0f50988d10c3f71603656848 *..\fg-selective-italian.bin
+d11995b588f5a343bc1024fb2efe755d *..\fg-selective-japanese.bin
+69ae990cce06309b75c2d37113068c1b *..\fg-selective-korean.bin
+0ba7eca74896fe71d7be70ae07ee7fe6 *..\fg-selective-mexican.bin
+021e781abe4a4cde0b2204d796c210a0 *..\fg-selective-polish.bin
+9556cab331b0e92fdfe59881897d6219 *..\fg-selective-russian.bin
+0b042fb03ba631df0f1d7bcfd244e78e *..\fg-selective-spanish.bin
